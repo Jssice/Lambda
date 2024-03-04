@@ -1,5 +1,8 @@
 # Lambda
 
+### 源function 结果没问题
+![image](https://github.com/Jssice/Lambda/assets/33156021/afdfeaa5-7ec3-4507-b6d0-4d4eb9ef1b33)
+![Uploading image.png…]()
 
 
 ### 1 index.mjs 
@@ -131,3 +134,8 @@ REPORT RequestId: 124707fe-f96e-469f-8ede-9c6325b4a9d2	Duration: 14.84 ms	Billed
 
 Request ID
 124707fe-f96e-469f-8ede-9c6325b4a9d2
+
+
+![image](https://github.com/Jssice/Lambda/assets/33156021/2050ed66-15c0-4acc-8af3-ce8ad8e7273e)
+
+
