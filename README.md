@@ -114,7 +114,7 @@ function getCurrentDayInAEST() {
 
 
 
-### 2Test result
+### 2 Test result
 
 Test Event Name
 test
@@ -135,10 +135,10 @@ REPORT RequestId: 124707fe-f96e-469f-8ede-9c6325b4a9d2	Duration: 14.84 ms	Billed
 Request ID
 124707fe-f96e-469f-8ede-9c6325b4a9d2
 
+![image](https://github.com/Jssice/Lambda/assets/33156021/2050ed66-15c0-4acc-8af3-ce8ad8e7273e)
+
 ### 浏览器json数据
 ![image](https://github.com/Jssice/Lambda/assets/33156021/b567e1e1-e829-4ebd-8a54-5da31bbae6b1)
 
-
-![image](https://github.com/Jssice/Lambda/assets/33156021/2050ed66-15c0-4acc-8af3-ce8ad8e7273e)
 
 
