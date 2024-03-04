@@ -3,7 +3,8 @@
 
 
 ### 1 index.mjs 
-〉'use strict';
+```
+'use strict';
 console.log('Loading hello world function');
 
 import { DynamoDBClient, PutItemCommand } from "@aws-sdk/client-dynamodb";
@@ -12,7 +13,7 @@ const client = new DynamoDBClient({
   region: "ap-southeast-2"
 });
 
-〉export const handler = async (event) => {
+export const handler = async (event) => {
     let name;
     let city;
     let time;
@@ -104,7 +105,7 @@ function getCurrentDayInAEST() {
     return "AEST_day"; // Replace with actual AEST day
 }
 
-
+```
 
 
 
