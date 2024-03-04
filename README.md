@@ -2,7 +2,7 @@
 
 
 
-### index.mjs 
+### 1 index.mjs 
 〉'use strict';
 console.log('Loading hello world function');
 
@@ -12,7 +12,7 @@ const client = new DynamoDBClient({
   region: "ap-southeast-2"
 });
 
-export const handler = async (event) => {
+〉export const handler = async (event) => {
     let name;
     let city;
     let time;
@@ -110,7 +110,7 @@ function getCurrentDayInAEST() {
 
 
 
-### test result
+### 2Test result
 
 Test Event Name
 test
