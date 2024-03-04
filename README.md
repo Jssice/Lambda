@@ -2,7 +2,7 @@
 
 ### 源function 结果没问题
 ![image](https://github.com/Jssice/Lambda/assets/33156021/afdfeaa5-7ec3-4507-b6d0-4d4eb9ef1b33)
-![Uploading image.png…]()
+![image](https://github.com/Jssice/Lambda/assets/33156021/fbbe17eb-f39b-4a50-aeba-ca30329f64a8)
 
 
 ### 1 index.mjs 
@@ -134,6 +134,9 @@ REPORT RequestId: 124707fe-f96e-469f-8ede-9c6325b4a9d2	Duration: 14.84 ms	Billed
 
 Request ID
 124707fe-f96e-469f-8ede-9c6325b4a9d2
+
+### 浏览器json数据
+![image](https://github.com/Jssice/Lambda/assets/33156021/b567e1e1-e829-4ebd-8a54-5da31bbae6b1)
 
 
 ![image](https://github.com/Jssice/Lambda/assets/33156021/2050ed66-15c0-4acc-8af3-ce8ad8e7273e)
